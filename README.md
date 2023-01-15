@@ -12,7 +12,9 @@ To start the game, insert
 
 Examples of input:
   > start user medium  --> starts the game AI - User on Medium level
+  
   > start user medium  --> starts the game AI - AI on Hard level
+  
   > start user user  --> starts the game User - User
 
 To make a move, insert the coordinates of row and column, for example:
